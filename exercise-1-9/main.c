@@ -18,9 +18,6 @@ main () {
                 printf(" ");
             }
         }
-
-        if (c != ' ') {
-            putchar(c);
-        }
+        putchar(c);
     }
 }
