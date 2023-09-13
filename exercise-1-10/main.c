@@ -2,7 +2,6 @@
 
 main ()
 {
-    
     long c;
 
     while ((c = getchar()) != EOF)
